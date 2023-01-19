@@ -1,0 +1,17 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.2.10",
+    "request": "^2.88.2",
+    "util": "^0.12.4"
+  }
+}
